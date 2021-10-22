@@ -1,3 +1,3 @@
-module github.com/zyltrex/fungo
+module github.com/0x1BB736F/fungo
 
-go 1.15
+go 1.17
